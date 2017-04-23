@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		232D1AD11EACDAB400795552 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232D1AD01EACDAB400795552 /* AppDelegate.swift */; };
-		232D1AD31EACDAB400795552 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232D1AD21EACDAB400795552 /* ViewController.swift */; };
 		232D1AD61EACDAB400795552 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 232D1AD41EACDAB400795552 /* Main.storyboard */; };
 		232D1AD91EACDAB400795552 /* Journalism.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 232D1AD71EACDAB400795552 /* Journalism.xcdatamodeld */; };
 		232D1ADB1EACDAB400795552 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 232D1ADA1EACDAB400795552 /* Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		232D1ACD1EACDAB400795552 /* Journalism.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Journalism.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		232D1AD01EACDAB400795552 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		232D1AD21EACDAB400795552 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		232D1AD51EACDAB400795552 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		232D1AD81EACDAB400795552 /* Journalism.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Journalism.xcdatamodel; sourceTree = "<group>"; };
 		232D1ADA1EACDAB400795552 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -69,7 +67,6 @@
 		232D1AE51EACDAC200795552 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				232D1AD21EACDAB400795552 /* ViewController.swift */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -188,7 +185,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				232D1AD31EACDAB400795552 /* ViewController.swift in Sources */,
 				232D1AD11EACDAB400795552 /* AppDelegate.swift in Sources */,
 				232D1AD91EACDAB400795552 /* Journalism.xcdatamodeld in Sources */,
 			);
